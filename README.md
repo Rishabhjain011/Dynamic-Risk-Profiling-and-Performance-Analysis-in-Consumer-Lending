@@ -1,5 +1,6 @@
 # Dynamic-Risk-Profiling-and-Performance-Analysis-in-Consumer-Lending
-# Overview
+# Overview![Screenshot 2025-03-29 123446](https://github.com/user-attachments/assets/1fad1375-c128-46d1-a1b6-3262753415f4)
+
 The main objectives of this project are to:
 
 Assess the risk profiles of loans and evaluate financial performance.
@@ -42,3 +43,4 @@ Interactive: Allows users to filter data dynamically using slicers and filters.
 Real-time Insights: Provides up-to-date metrics on loan portfolio performance.
 User-Friendly: Easy to navigate and interpret with color-coded risk assessments and clear data visualizations.
 Actionable Metrics: Offers key metrics such as profitability, risk, and performance at a glance.
+![Screenshot 2025-03-29 123621](https://github.com/user-attachments/assets/ad5f4d8e-967c-4e5d-b243-e2da8a8761da)
